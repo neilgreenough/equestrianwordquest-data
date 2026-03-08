@@ -1,110 +1,1902 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-08T12:00:00Z",
+  "updatedAt": "2026-03-08T18:00:00Z",
   "entries": [
-    { "word": "bridle", "category": "Tack", "difficulty": "easy", "hint": "Headgear used to steer a horse" },
-    { "word": "reins", "category": "Tack", "difficulty": "easy", "hint": "Straps held by the rider" },
-    { "word": "stirrup", "category": "Tack", "difficulty": "easy", "hint": "Foot support on a saddle" },
-    { "word": "girth", "category": "Tack", "difficulty": "easy", "hint": "Strap that secures the saddle" },
-    { "word": "martingale", "category": "Tack", "difficulty": "hard", "hint": "Helps control head carriage" },
-    { "word": "saddle", "category": "Tack", "difficulty": "easy", "hint": "Seat for the rider" },
-    { "word": "bit", "category": "Tack", "difficulty": "easy", "hint": "Piece that sits in the horse's mouth" },
-    { "word": "noseband", "category": "Tack", "difficulty": "medium", "hint": "Part of the bridle around the nose" },
-    { "word": "headstall", "category": "Tack", "difficulty": "medium", "hint": "Bridle straps over the horse's head" },
-    { "word": "halter", "category": "Tack", "difficulty": "easy", "hint": "Headgear for leading, not riding" },
-    { "word": "leadrope", "category": "Tack", "difficulty": "medium", "hint": "Rope clipped to a halter" },
-    { "word": "breastplate", "category": "Tack", "difficulty": "hard", "hint": "Prevents saddle from sliding back" },
-    { "word": "crupper", "category": "Tack", "difficulty": "medium", "hint": "Strap under the tail" },
-    { "word": "saddlepad", "category": "Tack", "difficulty": "medium", "hint": "Padding under the saddle" },
-    { "word": "numnah", "category": "Tack", "difficulty": "medium", "hint": "Another word for saddle pad" },
-    { "word": "hackamore", "category": "Tack", "difficulty": "hard", "hint": "Bitless bridle type" },
-    { "word": "bitguard", "category": "Tack", "difficulty": "medium", "hint": "Protective piece near the bit" },
-    { "word": "stirrupiron", "category": "Tack", "difficulty": "hard", "hint": "Metal frame of a stirrup" },
-    { "word": "saddlecloth", "category": "Tack", "difficulty": "hard", "hint": "Cloth layer under tack" },
-    { "word": "cavesson", "category": "Tack", "difficulty": "hard", "hint": "Type of noseband or training headgear" },
-
-    { "word": "arabian", "category": "Breeds", "difficulty": "medium", "hint": "Endurance-focused horse breed" },
-    { "word": "friesian", "category": "Breeds", "difficulty": "medium", "hint": "Black horse breed with flowing mane" },
-    { "word": "shetland", "category": "Breeds", "difficulty": "medium", "hint": "Small and sturdy pony breed" },
-    { "word": "appaloosa", "category": "Breeds", "difficulty": "hard", "hint": "Known for spotted coat patterns" },
-    { "word": "connemara", "category": "Breeds", "difficulty": "hard", "hint": "Irish pony breed" },
-    { "word": "andalusian", "category": "Breeds", "difficulty": "hard", "hint": "Spanish breed often seen in dressage" },
-    { "word": "clydesdale", "category": "Breeds", "difficulty": "hard", "hint": "Large draft breed with feathered legs" },
-    { "word": "haflinger", "category": "Breeds", "difficulty": "hard", "hint": "Chestnut coat with light mane" },
-    { "word": "mustang", "category": "Breeds", "difficulty": "medium", "hint": "Free-roaming American horse" },
-    { "word": "shire", "category": "Breeds", "difficulty": "easy", "hint": "Very large draft horse breed" },
-    { "word": "lipizzaner", "category": "Breeds", "difficulty": "hard", "hint": "Famous for classical riding displays" },
-    { "word": "fjord", "category": "Breeds", "difficulty": "easy", "hint": "Norwegian breed with upright mane" },
-    { "word": "quarterhorse", "category": "Breeds", "difficulty": "hard", "hint": "Popular American stock horse breed" },
-    { "word": "thoroughbred", "category": "Breeds", "difficulty": "hard", "hint": "Breed known for racing" },
-    { "word": "warmblood", "category": "Breeds", "difficulty": "hard", "hint": "Sport horse group used in jumping/dressage" },
-    { "word": "percheron", "category": "Breeds", "difficulty": "hard", "hint": "French draft horse breed" },
-    { "word": "morgan", "category": "Breeds", "difficulty": "easy", "hint": "Versatile American breed" },
-    { "word": "welsh", "category": "Breeds", "difficulty": "easy", "hint": "Pony and cob types from Wales" },
-    { "word": "trakehner", "category": "Breeds", "difficulty": "hard", "hint": "German warmblood breed" },
-    { "word": "hanoverian", "category": "Breeds", "difficulty": "hard", "hint": "German sport horse breed" },
-
-    { "word": "withers", "category": "Anatomy", "difficulty": "medium", "hint": "Highest point of the back" },
-    { "word": "fetlock", "category": "Anatomy", "difficulty": "medium", "hint": "Joint just above the hoof" },
-    { "word": "pastern", "category": "Anatomy", "difficulty": "medium", "hint": "Area between fetlock and hoof" },
-    { "word": "poll", "category": "Anatomy", "difficulty": "easy", "hint": "Top of the horse's head" },
-    { "word": "cannon", "category": "Anatomy", "difficulty": "medium", "hint": "Long lower leg bone area" },
-    { "word": "hock", "category": "Anatomy", "difficulty": "easy", "hint": "Major hind leg joint" },
-    { "word": "stifle", "category": "Anatomy", "difficulty": "medium", "hint": "Horse equivalent of the knee" },
-    { "word": "dock", "category": "Anatomy", "difficulty": "easy", "hint": "Upper part of the tail" },
-    { "word": "crest", "category": "Anatomy", "difficulty": "easy", "hint": "Top line of the neck" },
-    { "word": "barrel", "category": "Anatomy", "difficulty": "easy", "hint": "Main ribcage section of the body" },
-    { "word": "flank", "category": "Anatomy", "difficulty": "easy", "hint": "Area between ribs and hip" },
-    { "word": "gaskin", "category": "Anatomy", "difficulty": "medium", "hint": "Muscular upper hind leg area" },
-    { "word": "muzzle", "category": "Anatomy", "difficulty": "easy", "hint": "Nose and mouth area" },
-    { "word": "forelock", "category": "Anatomy", "difficulty": "medium", "hint": "Hair between the ears" },
-    { "word": "loin", "category": "Anatomy", "difficulty": "easy", "hint": "Back section before the croup" },
-    { "word": "quarters", "category": "Anatomy", "difficulty": "medium", "hint": "Hindquarter muscles" },
-    { "word": "shoulder", "category": "Anatomy", "difficulty": "medium", "hint": "Front body section affecting stride" },
-    { "word": "hoofwall", "category": "Anatomy", "difficulty": "medium", "hint": "Outer hard part of the hoof" },
-    { "word": "frog", "category": "Anatomy", "difficulty": "easy", "hint": "V-shaped structure on hoof underside" },
-    { "word": "coronet", "category": "Anatomy", "difficulty": "medium", "hint": "Band where hoof growth begins" },
-
-    { "word": "haynet", "category": "Stable", "difficulty": "easy", "hint": "Net used to hold hay" },
-    { "word": "pitchfork", "category": "Stable", "difficulty": "medium", "hint": "Tool used for mucking out" },
-    { "word": "wheelbarrow", "category": "Stable", "difficulty": "hard", "hint": "Used to carry bedding and manure" },
-    { "word": "muckheap", "category": "Stable", "difficulty": "medium", "hint": "Pile of used stable waste" },
-    { "word": "stabledoor", "category": "Stable", "difficulty": "medium", "hint": "Split door common in stables" },
-    { "word": "groomingkit", "category": "Stable", "difficulty": "hard", "hint": "Collection of brushing tools" },
-    { "word": "hoofpick", "category": "Stable", "difficulty": "medium", "hint": "Tool to clean hooves" },
-    { "word": "feedbucket", "category": "Stable", "difficulty": "medium", "hint": "Container for feed" },
-    { "word": "watertrough", "category": "Stable", "difficulty": "hard", "hint": "Large container for water" },
-    { "word": "bedding", "category": "Stable", "difficulty": "easy", "hint": "Material covering stable floor" },
-    { "word": "shavings", "category": "Stable", "difficulty": "medium", "hint": "Common bedding type made of wood" },
-    { "word": "haybale", "category": "Stable", "difficulty": "medium", "hint": "Compressed block of hay" },
-    { "word": "tackroom", "category": "Stable", "difficulty": "medium", "hint": "Room where tack is stored" },
-    { "word": "bridlehook", "category": "Stable", "difficulty": "hard", "hint": "Hook used to hang bridles" },
-    { "word": "feedroom", "category": "Stable", "difficulty": "medium", "hint": "Storage area for feed and supplements" },
-    { "word": "hayloft", "category": "Stable", "difficulty": "medium", "hint": "Upper storage area for hay" },
-    { "word": "mountingblock", "category": "Stable", "difficulty": "hard", "hint": "Step used for getting on a horse" },
-    { "word": "feedbin", "category": "Stable", "difficulty": "easy", "hint": "Container for stored feed" },
-    { "word": "stablemat", "category": "Stable", "difficulty": "medium", "hint": "Rubber mat used on stable floors" },
-    { "word": "crossties", "category": "Stable", "difficulty": "medium", "hint": "Two ties used to secure horse for grooming" },
-
-    { "word": "canter", "category": "Riding", "difficulty": "easy", "hint": "Three-beat gait" },
-    { "word": "trot", "category": "Riding", "difficulty": "easy", "hint": "Two-beat gait" },
-    { "word": "gallop", "category": "Riding", "difficulty": "easy", "hint": "Fastest natural gait" },
-    { "word": "dressage", "category": "Riding", "difficulty": "hard", "hint": "Precision riding discipline" },
-    { "word": "jumping", "category": "Riding", "difficulty": "medium", "hint": "Discipline over fences" },
-    { "word": "eventing", "category": "Riding", "difficulty": "hard", "hint": "Dressage, cross-country, and jumping combined" },
-    { "word": "reining", "category": "Riding", "difficulty": "medium", "hint": "Western discipline with patterns and spins" },
-    { "word": "vaulting", "category": "Riding", "difficulty": "hard", "hint": "Gymnastics on horseback" },
-    { "word": "lunging", "category": "Riding", "difficulty": "medium", "hint": "Working horse in a circle on a line" },
-    { "word": "posting", "category": "Riding", "difficulty": "medium", "hint": "Rising rhythmically at the trot" },
-    { "word": "halfpass", "category": "Riding", "difficulty": "hard", "hint": "Sideways and forward dressage movement" },
-    { "word": "transition", "category": "Riding", "difficulty": "hard", "hint": "Change between gaits or paces" },
-    { "word": "collection", "category": "Riding", "difficulty": "hard", "hint": "Shortened, more engaged movement" },
-    { "word": "extension", "category": "Riding", "difficulty": "hard", "hint": "Lengthened stride and frame" },
-    { "word": "schooling", "category": "Riding", "difficulty": "medium", "hint": "Training session to improve skills" },
-    { "word": "arena", "category": "Riding", "difficulty": "easy", "hint": "Enclosed riding area" },
-    { "word": "trailride", "category": "Riding", "difficulty": "medium", "hint": "Riding outside on paths" },
-    { "word": "horsemanship", "category": "Riding", "difficulty": "hard", "hint": "Overall skill in handling and riding horses" },
-    { "word": "equitation", "category": "Riding", "difficulty": "hard", "hint": "Judging rider form and technique" },
-    { "word": "leadchange", "category": "Riding", "difficulty": "hard", "hint": "Switching leading leg at canter" }
+    {
+      "word": "bridle",
+      "category": "Tack",
+      "difficulty": "easy",
+      "hint": "Headgear used to steer a horse"
+    },
+    {
+      "word": "reins",
+      "category": "Tack",
+      "difficulty": "easy",
+      "hint": "Straps held by the rider"
+    },
+    {
+      "word": "stirrup",
+      "category": "Tack",
+      "difficulty": "easy",
+      "hint": "Foot support on a saddle"
+    },
+    {
+      "word": "girth",
+      "category": "Tack",
+      "difficulty": "easy",
+      "hint": "Strap that secures the saddle"
+    },
+    {
+      "word": "martingale",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Helps control head carriage"
+    },
+    {
+      "word": "saddle",
+      "category": "Tack",
+      "difficulty": "easy",
+      "hint": "Seat for the rider"
+    },
+    {
+      "word": "bit",
+      "category": "Tack",
+      "difficulty": "easy",
+      "hint": "Piece that sits in the horse's mouth"
+    },
+    {
+      "word": "noseband",
+      "category": "Tack",
+      "difficulty": "medium",
+      "hint": "Part of the bridle around the nose"
+    },
+    {
+      "word": "headstall",
+      "category": "Tack",
+      "difficulty": "medium",
+      "hint": "Bridle straps over the horse's head"
+    },
+    {
+      "word": "halter",
+      "category": "Tack",
+      "difficulty": "easy",
+      "hint": "Headgear for leading, not riding"
+    },
+    {
+      "word": "leadrope",
+      "category": "Tack",
+      "difficulty": "medium",
+      "hint": "Rope clipped to a halter"
+    },
+    {
+      "word": "breastplate",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Prevents saddle from sliding back"
+    },
+    {
+      "word": "crupper",
+      "category": "Tack",
+      "difficulty": "medium",
+      "hint": "Strap under the tail"
+    },
+    {
+      "word": "saddlepad",
+      "category": "Tack",
+      "difficulty": "medium",
+      "hint": "Padding under the saddle"
+    },
+    {
+      "word": "numnah",
+      "category": "Tack",
+      "difficulty": "medium",
+      "hint": "Another word for saddle pad"
+    },
+    {
+      "word": "hackamore",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Bitless bridle type"
+    },
+    {
+      "word": "bitguard",
+      "category": "Tack",
+      "difficulty": "medium",
+      "hint": "Protective piece near the bit"
+    },
+    {
+      "word": "stirrupiron",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Metal frame of a stirrup"
+    },
+    {
+      "word": "saddlecloth",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Cloth layer under tack"
+    },
+    {
+      "word": "cavesson",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Type of noseband or training headgear"
+    },
+    {
+      "word": "arabian",
+      "category": "Breeds",
+      "difficulty": "medium",
+      "hint": "Endurance-focused horse breed"
+    },
+    {
+      "word": "friesian",
+      "category": "Breeds",
+      "difficulty": "medium",
+      "hint": "Black horse breed with flowing mane"
+    },
+    {
+      "word": "shetland",
+      "category": "Breeds",
+      "difficulty": "medium",
+      "hint": "Small and sturdy pony breed"
+    },
+    {
+      "word": "appaloosa",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Known for spotted coat patterns"
+    },
+    {
+      "word": "connemara",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Irish pony breed"
+    },
+    {
+      "word": "andalusian",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Spanish breed often seen in dressage"
+    },
+    {
+      "word": "clydesdale",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Large draft breed with feathered legs"
+    },
+    {
+      "word": "haflinger",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Chestnut coat with light mane"
+    },
+    {
+      "word": "mustang",
+      "category": "Breeds",
+      "difficulty": "medium",
+      "hint": "Free-roaming American horse"
+    },
+    {
+      "word": "shire",
+      "category": "Breeds",
+      "difficulty": "easy",
+      "hint": "Very large draft horse breed"
+    },
+    {
+      "word": "lipizzaner",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Famous for classical riding displays"
+    },
+    {
+      "word": "fjord",
+      "category": "Breeds",
+      "difficulty": "easy",
+      "hint": "Norwegian breed with upright mane"
+    },
+    {
+      "word": "quarterhorse",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Popular American stock horse breed"
+    },
+    {
+      "word": "thoroughbred",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Breed known for racing"
+    },
+    {
+      "word": "warmblood",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Sport horse group used in jumping/dressage"
+    },
+    {
+      "word": "percheron",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "French draft horse breed"
+    },
+    {
+      "word": "morgan",
+      "category": "Breeds",
+      "difficulty": "easy",
+      "hint": "Versatile American breed"
+    },
+    {
+      "word": "welsh",
+      "category": "Breeds",
+      "difficulty": "easy",
+      "hint": "Pony and cob types from Wales"
+    },
+    {
+      "word": "trakehner",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "German warmblood breed"
+    },
+    {
+      "word": "hanoverian",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "German sport horse breed"
+    },
+    {
+      "word": "withers",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Highest point of the back"
+    },
+    {
+      "word": "fetlock",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Joint just above the hoof"
+    },
+    {
+      "word": "pastern",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Area between fetlock and hoof"
+    },
+    {
+      "word": "poll",
+      "category": "Anatomy",
+      "difficulty": "easy",
+      "hint": "Top of the horse's head"
+    },
+    {
+      "word": "cannon",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Long lower leg bone area"
+    },
+    {
+      "word": "hock",
+      "category": "Anatomy",
+      "difficulty": "easy",
+      "hint": "Major hind leg joint"
+    },
+    {
+      "word": "stifle",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Horse equivalent of the knee"
+    },
+    {
+      "word": "dock",
+      "category": "Anatomy",
+      "difficulty": "easy",
+      "hint": "Upper part of the tail"
+    },
+    {
+      "word": "crest",
+      "category": "Anatomy",
+      "difficulty": "easy",
+      "hint": "Top line of the neck"
+    },
+    {
+      "word": "barrel",
+      "category": "Anatomy",
+      "difficulty": "easy",
+      "hint": "Main ribcage section of the body"
+    },
+    {
+      "word": "flank",
+      "category": "Anatomy",
+      "difficulty": "easy",
+      "hint": "Area between ribs and hip"
+    },
+    {
+      "word": "gaskin",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Muscular upper hind leg area"
+    },
+    {
+      "word": "muzzle",
+      "category": "Anatomy",
+      "difficulty": "easy",
+      "hint": "Nose and mouth area"
+    },
+    {
+      "word": "forelock",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Hair between the ears"
+    },
+    {
+      "word": "loin",
+      "category": "Anatomy",
+      "difficulty": "easy",
+      "hint": "Back section before the croup"
+    },
+    {
+      "word": "quarters",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Hindquarter muscles"
+    },
+    {
+      "word": "shoulder",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Front body section affecting stride"
+    },
+    {
+      "word": "hoofwall",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Outer hard part of the hoof"
+    },
+    {
+      "word": "frog",
+      "category": "Anatomy",
+      "difficulty": "easy",
+      "hint": "V-shaped structure on hoof underside"
+    },
+    {
+      "word": "coronet",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Band where hoof growth begins"
+    },
+    {
+      "word": "haynet",
+      "category": "Stable",
+      "difficulty": "easy",
+      "hint": "Net used to hold hay"
+    },
+    {
+      "word": "pitchfork",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Tool used for mucking out"
+    },
+    {
+      "word": "wheelbarrow",
+      "category": "Stable",
+      "difficulty": "hard",
+      "hint": "Used to carry bedding and manure"
+    },
+    {
+      "word": "muckheap",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Pile of used stable waste"
+    },
+    {
+      "word": "stabledoor",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Split door common in stables"
+    },
+    {
+      "word": "groomingkit",
+      "category": "Stable",
+      "difficulty": "hard",
+      "hint": "Collection of brushing tools"
+    },
+    {
+      "word": "hoofpick",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Tool to clean hooves"
+    },
+    {
+      "word": "feedbucket",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Container for feed"
+    },
+    {
+      "word": "watertrough",
+      "category": "Stable",
+      "difficulty": "hard",
+      "hint": "Large container for water"
+    },
+    {
+      "word": "bedding",
+      "category": "Stable",
+      "difficulty": "easy",
+      "hint": "Material covering stable floor"
+    },
+    {
+      "word": "shavings",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Common bedding type made of wood"
+    },
+    {
+      "word": "haybale",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Compressed block of hay"
+    },
+    {
+      "word": "tackroom",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Room where tack is stored"
+    },
+    {
+      "word": "bridlehook",
+      "category": "Stable",
+      "difficulty": "hard",
+      "hint": "Hook used to hang bridles"
+    },
+    {
+      "word": "feedroom",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Storage area for feed and supplements"
+    },
+    {
+      "word": "hayloft",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Upper storage area for hay"
+    },
+    {
+      "word": "mountingblock",
+      "category": "Stable",
+      "difficulty": "hard",
+      "hint": "Step used for getting on a horse"
+    },
+    {
+      "word": "feedbin",
+      "category": "Stable",
+      "difficulty": "easy",
+      "hint": "Container for stored feed"
+    },
+    {
+      "word": "stablemat",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Rubber mat used on stable floors"
+    },
+    {
+      "word": "crossties",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Two ties used to secure horse for grooming"
+    },
+    {
+      "word": "canter",
+      "category": "Riding",
+      "difficulty": "easy",
+      "hint": "Three-beat gait"
+    },
+    {
+      "word": "trot",
+      "category": "Riding",
+      "difficulty": "easy",
+      "hint": "Two-beat gait"
+    },
+    {
+      "word": "gallop",
+      "category": "Riding",
+      "difficulty": "easy",
+      "hint": "Fastest natural gait"
+    },
+    {
+      "word": "dressage",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Precision riding discipline"
+    },
+    {
+      "word": "jumping",
+      "category": "Riding",
+      "difficulty": "medium",
+      "hint": "Discipline over fences"
+    },
+    {
+      "word": "eventing",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Dressage, cross-country, and jumping combined"
+    },
+    {
+      "word": "reining",
+      "category": "Riding",
+      "difficulty": "medium",
+      "hint": "Western discipline with patterns and spins"
+    },
+    {
+      "word": "vaulting",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Gymnastics on horseback"
+    },
+    {
+      "word": "lunging",
+      "category": "Riding",
+      "difficulty": "medium",
+      "hint": "Working horse in a circle on a line"
+    },
+    {
+      "word": "posting",
+      "category": "Riding",
+      "difficulty": "medium",
+      "hint": "Rising rhythmically at the trot"
+    },
+    {
+      "word": "halfpass",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Sideways and forward dressage movement"
+    },
+    {
+      "word": "transition",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Change between gaits or paces"
+    },
+    {
+      "word": "collection",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Shortened, more engaged movement"
+    },
+    {
+      "word": "extension",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Lengthened stride and frame"
+    },
+    {
+      "word": "schooling",
+      "category": "Riding",
+      "difficulty": "medium",
+      "hint": "Training session to improve skills"
+    },
+    {
+      "word": "arena",
+      "category": "Riding",
+      "difficulty": "easy",
+      "hint": "Enclosed riding area"
+    },
+    {
+      "word": "trailride",
+      "category": "Riding",
+      "difficulty": "medium",
+      "hint": "Riding outside on paths"
+    },
+    {
+      "word": "horsemanship",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Overall skill in handling and riding horses"
+    },
+    {
+      "word": "equitation",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Judging rider form and technique"
+    },
+    {
+      "word": "leadchange",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Switching leading leg at canter"
+    },
+    {
+      "word": "browband",
+      "category": "Tack",
+      "difficulty": "medium",
+      "hint": "Strap across the horse forehead"
+    },
+    {
+      "word": "cheekpiece",
+      "category": "Tack",
+      "difficulty": "medium",
+      "hint": "Bridle strap running down each cheek"
+    },
+    {
+      "word": "throatlatch",
+      "category": "Tack",
+      "difficulty": "medium",
+      "hint": "Strap that fastens under the throat"
+    },
+    {
+      "word": "flashstrap",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Noseband strap that stabilizes the bit"
+    },
+    {
+      "word": "dropnoseband",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Noseband placed lower on the nose"
+    },
+    {
+      "word": "gracklenoseband",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Figure eight style noseband"
+    },
+    {
+      "word": "snaffle",
+      "category": "Tack",
+      "difficulty": "medium",
+      "hint": "Bit with direct rein pressure"
+    },
+    {
+      "word": "pelham",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Bit combining curb and snaffle effects"
+    },
+    {
+      "word": "curbbit",
+      "category": "Tack",
+      "difficulty": "medium",
+      "hint": "Leverage bit using curb chain pressure"
+    },
+    {
+      "word": "kimberwick",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Curb style bit with rein slots"
+    },
+    {
+      "word": "bosal",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Bitless nosepiece used in vaquero work"
+    },
+    {
+      "word": "mecate",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Rope rein traditionally paired with bosal"
+    },
+    {
+      "word": "sidepull",
+      "category": "Tack",
+      "difficulty": "medium",
+      "hint": "Bitless bridle with side pressure"
+    },
+    {
+      "word": "surcingle",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Strap used for lunging or long lining"
+    },
+    {
+      "word": "roller",
+      "category": "Tack",
+      "difficulty": "medium",
+      "hint": "Training surcingle with attachment rings"
+    },
+    {
+      "word": "stirrupleather",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Leather strap that holds the stirrup"
+    },
+    {
+      "word": "girthsleeve",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Soft cover to reduce girth rubbing"
+    },
+    {
+      "word": "cinch",
+      "category": "Tack",
+      "difficulty": "medium",
+      "hint": "Western strap securing the saddle"
+    },
+    {
+      "word": "latigo",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Strap used to tighten western cinch"
+    },
+    {
+      "word": "drawreins",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Auxiliary reins for head carriage"
+    },
+    {
+      "word": "splitreins",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Two separate western reins"
+    },
+    {
+      "word": "bellboots",
+      "category": "Tack",
+      "difficulty": "medium",
+      "hint": "Protective boots covering heel bulbs"
+    },
+    {
+      "word": "overreachboots",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Boots that prevent overreach strikes"
+    },
+    {
+      "word": "standingmartingale",
+      "category": "Tack",
+      "difficulty": "hard",
+      "hint": "Martingale that limits upward head motion"
+    },
+    {
+      "word": "akhalteke",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Turkmen breed with metallic sheen"
+    },
+    {
+      "word": "lusitano",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Portuguese breed used in classical riding"
+    },
+    {
+      "word": "holsteiner",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "German warmblood known for jumping"
+    },
+    {
+      "word": "oldenburg",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "German sport horse registry"
+    },
+    {
+      "word": "kwpn",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Dutch warmblood studbook abbreviation"
+    },
+    {
+      "word": "sellefrancais",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "French sport horse breed"
+    },
+    {
+      "word": "irishdraught",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Strong Irish breed for crossing"
+    },
+    {
+      "word": "gypsyvanner",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Cob type with heavy feathering"
+    },
+    {
+      "word": "clevelandbay",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Historic British carriage horse"
+    },
+    {
+      "word": "belgian",
+      "category": "Breeds",
+      "difficulty": "medium",
+      "hint": "Powerful draft horse breed"
+    },
+    {
+      "word": "suffolkpunch",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Chestnut English draft breed"
+    },
+    {
+      "word": "icelandic",
+      "category": "Breeds",
+      "difficulty": "medium",
+      "hint": "Breed famous for extra gaits"
+    },
+    {
+      "word": "newforest",
+      "category": "Breeds",
+      "difficulty": "medium",
+      "hint": "Pony breed from southern England"
+    },
+    {
+      "word": "dartmoor",
+      "category": "Breeds",
+      "difficulty": "medium",
+      "hint": "Small hardy pony breed"
+    },
+    {
+      "word": "exmoor",
+      "category": "Breeds",
+      "difficulty": "medium",
+      "hint": "Native pony with mealy muzzle"
+    },
+    {
+      "word": "fellpony",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Black mountain pony from England"
+    },
+    {
+      "word": "dalespony",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Strong British pony breed"
+    },
+    {
+      "word": "highlandpony",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Scottish pony for rough terrain"
+    },
+    {
+      "word": "standardbred",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Breed used in harness racing"
+    },
+    {
+      "word": "pasofino",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Smooth gaited horse from Caribbean lines"
+    },
+    {
+      "word": "peruvianpaso",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Gaited breed with lateral movement"
+    },
+    {
+      "word": "tennesseewalker",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "American gaited pleasure breed"
+    },
+    {
+      "word": "knabstrupper",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Danish breed often leopard spotted"
+    },
+    {
+      "word": "marwari",
+      "category": "Breeds",
+      "difficulty": "hard",
+      "hint": "Indian breed with inward curving ears"
+    },
+    {
+      "word": "croup",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Top line from loin to tail"
+    },
+    {
+      "word": "hindquarters",
+      "category": "Anatomy",
+      "difficulty": "hard",
+      "hint": "Rear muscles that provide propulsion"
+    },
+    {
+      "word": "forearm",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Upper front leg between elbow and knee"
+    },
+    {
+      "word": "forehead",
+      "category": "Anatomy",
+      "difficulty": "easy",
+      "hint": "Flat area between poll and eyes"
+    },
+    {
+      "word": "nostril",
+      "category": "Anatomy",
+      "difficulty": "easy",
+      "hint": "External opening for breathing"
+    },
+    {
+      "word": "neck",
+      "category": "Anatomy",
+      "difficulty": "easy",
+      "hint": "Connects head to body"
+    },
+    {
+      "word": "ribcage",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Bony chest structure protecting organs"
+    },
+    {
+      "word": "elbow",
+      "category": "Anatomy",
+      "difficulty": "easy",
+      "hint": "Joint at top of front leg"
+    },
+    {
+      "word": "knee",
+      "category": "Anatomy",
+      "difficulty": "easy",
+      "hint": "Front leg joint called carpus"
+    },
+    {
+      "word": "forehoof",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Hoof on a front limb"
+    },
+    {
+      "word": "hindhoof",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Hoof on a hind limb"
+    },
+    {
+      "word": "heelbulb",
+      "category": "Anatomy",
+      "difficulty": "hard",
+      "hint": "Soft rounded back part of hoof"
+    },
+    {
+      "word": "sole",
+      "category": "Anatomy",
+      "difficulty": "easy",
+      "hint": "Bottom surface of the hoof"
+    },
+    {
+      "word": "coffinbone",
+      "category": "Anatomy",
+      "difficulty": "hard",
+      "hint": "Bone housed inside the hoof capsule"
+    },
+    {
+      "word": "navicularbone",
+      "category": "Anatomy",
+      "difficulty": "hard",
+      "hint": "Small bone behind the coffin joint"
+    },
+    {
+      "word": "splintbone",
+      "category": "Anatomy",
+      "difficulty": "hard",
+      "hint": "Side bone running along the cannon"
+    },
+    {
+      "word": "sesamoid",
+      "category": "Anatomy",
+      "difficulty": "hard",
+      "hint": "Paired bones at back of fetlock"
+    },
+    {
+      "word": "scapula",
+      "category": "Anatomy",
+      "difficulty": "hard",
+      "hint": "Shoulder blade bone"
+    },
+    {
+      "word": "carpus",
+      "category": "Anatomy",
+      "difficulty": "hard",
+      "hint": "Scientific term for front knee"
+    },
+    {
+      "word": "tendon",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Fibrous tissue linking muscle to bone"
+    },
+    {
+      "word": "ligament",
+      "category": "Anatomy",
+      "difficulty": "medium",
+      "hint": "Fibrous tissue linking bone to bone"
+    },
+    {
+      "word": "mane",
+      "category": "Anatomy",
+      "difficulty": "easy",
+      "hint": "Hair growing along the neck crest"
+    },
+    {
+      "word": "pointofhip",
+      "category": "Anatomy",
+      "difficulty": "hard",
+      "hint": "Prominent bony point on pelvis"
+    },
+    {
+      "word": "digitalcushion",
+      "category": "Anatomy",
+      "difficulty": "hard",
+      "hint": "Shock absorbing tissue within hoof"
+    },
+    {
+      "word": "stallguard",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Barrier across an open stall door"
+    },
+    {
+      "word": "hayrack",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Rack used to hold hay"
+    },
+    {
+      "word": "saltlick",
+      "category": "Stable",
+      "difficulty": "easy",
+      "hint": "Mineral block horses lick"
+    },
+    {
+      "word": "washstall",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Designated bay for bathing horses"
+    },
+    {
+      "word": "aisleway",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Central corridor between stalls"
+    },
+    {
+      "word": "muckfork",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Fork used to remove soiled bedding"
+    },
+    {
+      "word": "feedscoop",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Scoop for measuring feed"
+    },
+    {
+      "word": "grainbin",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Storage container for grain"
+    },
+    {
+      "word": "blanketrack",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Rack for storing horse rugs"
+    },
+    {
+      "word": "saddlerack",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Support rail for a saddle"
+    },
+    {
+      "word": "tacklocker",
+      "category": "Stable",
+      "difficulty": "hard",
+      "hint": "Lockable cabinet for tack"
+    },
+    {
+      "word": "groomingbox",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Portable box for grooming tools"
+    },
+    {
+      "word": "firstaidkit",
+      "category": "Stable",
+      "difficulty": "hard",
+      "hint": "Supplies for minor injuries"
+    },
+    {
+      "word": "stablefan",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Fan used for barn ventilation"
+    },
+    {
+      "word": "flyspray",
+      "category": "Stable",
+      "difficulty": "easy",
+      "hint": "Repellent spray for biting flies"
+    },
+    {
+      "word": "automaticwaterer",
+      "category": "Stable",
+      "difficulty": "hard",
+      "hint": "Self refilling water bowl"
+    },
+    {
+      "word": "runinshed",
+      "category": "Stable",
+      "difficulty": "hard",
+      "hint": "Field shelter open on one side"
+    },
+    {
+      "word": "roundpen",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Circular enclosure for groundwork"
+    },
+    {
+      "word": "lungepen",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Pen used for lunging"
+    },
+    {
+      "word": "arenaharrow",
+      "category": "Stable",
+      "difficulty": "hard",
+      "hint": "Tool that levels arena footing"
+    },
+    {
+      "word": "manurecart",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Cart for transporting muck"
+    },
+    {
+      "word": "haysteamer",
+      "category": "Stable",
+      "difficulty": "hard",
+      "hint": "Device that steams hay for dust reduction"
+    },
+    {
+      "word": "foalingstall",
+      "category": "Stable",
+      "difficulty": "hard",
+      "hint": "Large stall prepared for foaling"
+    },
+    {
+      "word": "pasturegate",
+      "category": "Stable",
+      "difficulty": "medium",
+      "hint": "Gate controlling turnout field access"
+    },
+    {
+      "word": "walk",
+      "category": "Riding",
+      "difficulty": "easy",
+      "hint": "Four beat natural gait"
+    },
+    {
+      "word": "piaffe",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Collected trot performed nearly in place"
+    },
+    {
+      "word": "passage",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Elevated rhythmic trot movement"
+    },
+    {
+      "word": "pirouette",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Turn performed around the hindquarters"
+    },
+    {
+      "word": "shoulderin",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Three track lateral dressage movement"
+    },
+    {
+      "word": "legyield",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Horse moves sideways from leg aid"
+    },
+    {
+      "word": "countercanter",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Canter on the outside lead"
+    },
+    {
+      "word": "flyingchange",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Lead change done in one stride"
+    },
+    {
+      "word": "twopoint",
+      "category": "Riding",
+      "difficulty": "medium",
+      "hint": "Forward seat with light saddle contact"
+    },
+    {
+      "word": "sittingtrot",
+      "category": "Riding",
+      "difficulty": "medium",
+      "hint": "Trot without rising from saddle"
+    },
+    {
+      "word": "serpentine",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "S shaped schooling figure"
+    },
+    {
+      "word": "volte",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Small circle in dressage"
+    },
+    {
+      "word": "halt",
+      "category": "Riding",
+      "difficulty": "easy",
+      "hint": "Complete stop from a gait"
+    },
+    {
+      "word": "reinback",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Horse steps backward on cue"
+    },
+    {
+      "word": "turnonhaunches",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Forehand circles around hind legs"
+    },
+    {
+      "word": "impulsion",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Energetic thrust from the hindquarters"
+    },
+    {
+      "word": "rollback",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Fast turn after stopping"
+    },
+    {
+      "word": "slidingstop",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Reining stop with hind feet sliding"
+    },
+    {
+      "word": "barrelracing",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Timed western race around barrels"
+    },
+    {
+      "word": "polebending",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Timed weaving pattern through poles"
+    },
+    {
+      "word": "crosscountry",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Phase over fixed outdoor obstacles"
+    },
+    {
+      "word": "showjumping",
+      "category": "Riding",
+      "difficulty": "hard",
+      "hint": "Jumping colored fences in an arena"
+    },
+    {
+      "word": "gridwork",
+      "category": "Riding",
+      "difficulty": "medium",
+      "hint": "Training over a line of fences"
+    },
+    {
+      "word": "figureeight",
+      "category": "Riding",
+      "difficulty": "medium",
+      "hint": "Schooling pattern with two connected circles"
+    },
+    {
+      "word": "farrier",
+      "category": "Farriery",
+      "difficulty": "medium",
+      "hint": "Specialist who trims and shoes hooves"
+    },
+    {
+      "word": "shoeing",
+      "category": "Farriery",
+      "difficulty": "medium",
+      "hint": "Applying horseshoes to the hooves"
+    },
+    {
+      "word": "trimming",
+      "category": "Farriery",
+      "difficulty": "easy",
+      "hint": "Routine shaping of hoof growth"
+    },
+    {
+      "word": "hoofbalance",
+      "category": "Farriery",
+      "difficulty": "hard",
+      "hint": "Even weight distribution through the hoof"
+    },
+    {
+      "word": "hoofangle",
+      "category": "Farriery",
+      "difficulty": "hard",
+      "hint": "Angle of hoof wall to ground"
+    },
+    {
+      "word": "rasp",
+      "category": "Farriery",
+      "difficulty": "easy",
+      "hint": "File used to smooth hoof wall"
+    },
+    {
+      "word": "nippers",
+      "category": "Farriery",
+      "difficulty": "medium",
+      "hint": "Tool used to cut hoof wall"
+    },
+    {
+      "word": "clincher",
+      "category": "Farriery",
+      "difficulty": "hard",
+      "hint": "Tool used to tighten nail clinches"
+    },
+    {
+      "word": "anvil",
+      "category": "Farriery",
+      "difficulty": "medium",
+      "hint": "Metal block for shaping shoes"
+    },
+    {
+      "word": "forge",
+      "category": "Farriery",
+      "difficulty": "medium",
+      "hint": "Heat source for hot shoeing"
+    },
+    {
+      "word": "hotshoeing",
+      "category": "Farriery",
+      "difficulty": "hard",
+      "hint": "Fitting a heated shoe to hoof"
+    },
+    {
+      "word": "coldshoeing",
+      "category": "Farriery",
+      "difficulty": "hard",
+      "hint": "Fitting shoe without heating"
+    },
+    {
+      "word": "hooftester",
+      "category": "Farriery",
+      "difficulty": "hard",
+      "hint": "Pliers used to check hoof sensitivity"
+    },
+    {
+      "word": "nailpuller",
+      "category": "Farriery",
+      "difficulty": "hard",
+      "hint": "Tool used to remove old nails"
+    },
+    {
+      "word": "heartbar",
+      "category": "Farriery",
+      "difficulty": "hard",
+      "hint": "Shoe supporting the frog area"
+    },
+    {
+      "word": "eggbar",
+      "category": "Farriery",
+      "difficulty": "hard",
+      "hint": "Shoe with closed oval heel support"
+    },
+    {
+      "word": "rimshoe",
+      "category": "Farriery",
+      "difficulty": "hard",
+      "hint": "Shoe with groove for extra traction"
+    },
+    {
+      "word": "wedgepad",
+      "category": "Farriery",
+      "difficulty": "hard",
+      "hint": "Pad used to raise hoof angle"
+    },
+    {
+      "word": "frogsupport",
+      "category": "Farriery",
+      "difficulty": "hard",
+      "hint": "Insert that helps support frog pressure"
+    },
+    {
+      "word": "toeclip",
+      "category": "Farriery",
+      "difficulty": "hard",
+      "hint": "Front shoe clip for stability"
+    },
+    {
+      "word": "quarterclip",
+      "category": "Farriery",
+      "difficulty": "hard",
+      "hint": "Side clip used to secure shoe"
+    },
+    {
+      "word": "hoofstand",
+      "category": "Farriery",
+      "difficulty": "medium",
+      "hint": "Stand that supports hoof during work"
+    },
+    {
+      "word": "pritchel",
+      "category": "Farriery",
+      "difficulty": "hard",
+      "hint": "Tool used to open nail holes"
+    },
+    {
+      "word": "hoofknife",
+      "category": "Farriery",
+      "difficulty": "medium",
+      "hint": "Knife used to trim sole and frog"
+    },
+    {
+      "word": "colic",
+      "category": "Health",
+      "difficulty": "medium",
+      "hint": "Abdominal pain syndrome in horses"
+    },
+    {
+      "word": "laminitis",
+      "category": "Health",
+      "difficulty": "hard",
+      "hint": "Inflammation of hoof laminae"
+    },
+    {
+      "word": "thrush",
+      "category": "Health",
+      "difficulty": "medium",
+      "hint": "Hoof infection affecting the frog"
+    },
+    {
+      "word": "ringbone",
+      "category": "Health",
+      "difficulty": "hard",
+      "hint": "Arthritic growth around pastern joint"
+    },
+    {
+      "word": "sidebone",
+      "category": "Health",
+      "difficulty": "hard",
+      "hint": "Ossification of hoof cartilage"
+    },
+    {
+      "word": "arthritis",
+      "category": "Health",
+      "difficulty": "medium",
+      "hint": "Joint inflammation causing stiffness"
+    },
+    {
+      "word": "tendonitis",
+      "category": "Health",
+      "difficulty": "hard",
+      "hint": "Inflammation of a tendon"
+    },
+    {
+      "word": "splints",
+      "category": "Health",
+      "difficulty": "medium",
+      "hint": "Bony enlargement on splint bone"
+    },
+    {
+      "word": "heaves",
+      "category": "Health",
+      "difficulty": "medium",
+      "hint": "Chronic equine airway disease"
+    },
+    {
+      "word": "strangles",
+      "category": "Health",
+      "difficulty": "hard",
+      "hint": "Contagious bacterial respiratory infection"
+    },
+    {
+      "word": "equineflu",
+      "category": "Health",
+      "difficulty": "hard",
+      "hint": "Viral influenza in horses"
+    },
+    {
+      "word": "deworming",
+      "category": "Health",
+      "difficulty": "medium",
+      "hint": "Treatment to reduce internal parasites"
+    },
+    {
+      "word": "vaccination",
+      "category": "Health",
+      "difficulty": "medium",
+      "hint": "Preventive immunization schedule"
+    },
+    {
+      "word": "floating",
+      "category": "Health",
+      "difficulty": "hard",
+      "hint": "Dental filing to smooth sharp points"
+    },
+    {
+      "word": "hydration",
+      "category": "Health",
+      "difficulty": "easy",
+      "hint": "Maintaining proper body water"
+    },
+    {
+      "word": "electrolytes",
+      "category": "Health",
+      "difficulty": "medium",
+      "hint": "Minerals lost through sweat"
+    },
+    {
+      "word": "bandaging",
+      "category": "Health",
+      "difficulty": "medium",
+      "hint": "Applying wraps for support or protection"
+    },
+    {
+      "word": "poultice",
+      "category": "Health",
+      "difficulty": "hard",
+      "hint": "Topical dressing for hoof or limb"
+    },
+    {
+      "word": "wormcount",
+      "category": "Health",
+      "difficulty": "hard",
+      "hint": "Lab test measuring parasite eggs"
+    },
+    {
+      "word": "biosecurity",
+      "category": "Health",
+      "difficulty": "hard",
+      "hint": "Practices that limit disease spread"
+    },
+    {
+      "word": "lameness",
+      "category": "Health",
+      "difficulty": "medium",
+      "hint": "Abnormal gait due to pain"
+    },
+    {
+      "word": "ulcers",
+      "category": "Health",
+      "difficulty": "medium",
+      "hint": "Stomach lesions common in performance horses"
+    },
+    {
+      "word": "hoofabscess",
+      "category": "Health",
+      "difficulty": "hard",
+      "hint": "Painful pocket of infection in hoof"
+    },
+    {
+      "word": "sweetitch",
+      "category": "Health",
+      "difficulty": "hard",
+      "hint": "Allergic skin reaction to midge bites"
+    },
+    {
+      "word": "bay",
+      "category": "Coat",
+      "difficulty": "easy",
+      "hint": "Brown body with black points"
+    },
+    {
+      "word": "chestnut",
+      "category": "Coat",
+      "difficulty": "easy",
+      "hint": "Red coat with same color mane"
+    },
+    {
+      "word": "black",
+      "category": "Coat",
+      "difficulty": "easy",
+      "hint": "Solid dark coat color"
+    },
+    {
+      "word": "grey",
+      "category": "Coat",
+      "difficulty": "easy",
+      "hint": "Coat that often lightens with age"
+    },
+    {
+      "word": "palomino",
+      "category": "Coat",
+      "difficulty": "medium",
+      "hint": "Golden coat with light mane and tail"
+    },
+    {
+      "word": "buckskin",
+      "category": "Coat",
+      "difficulty": "medium",
+      "hint": "Tan coat with black points"
+    },
+    {
+      "word": "dun",
+      "category": "Coat",
+      "difficulty": "easy",
+      "hint": "Diluted coat often with dorsal stripe"
+    },
+    {
+      "word": "roan",
+      "category": "Coat",
+      "difficulty": "medium",
+      "hint": "White hairs mixed through base coat"
+    },
+    {
+      "word": "grullo",
+      "category": "Coat",
+      "difficulty": "hard",
+      "hint": "Dun dilution on black base coat"
+    },
+    {
+      "word": "cremello",
+      "category": "Coat",
+      "difficulty": "hard",
+      "hint": "Double cream dilution on chestnut"
+    },
+    {
+      "word": "perlino",
+      "category": "Coat",
+      "difficulty": "hard",
+      "hint": "Double cream dilution on bay"
+    },
+    {
+      "word": "pinto",
+      "category": "Coat",
+      "difficulty": "medium",
+      "hint": "Large white and colored patches"
+    },
+    {
+      "word": "skewbald",
+      "category": "Coat",
+      "difficulty": "hard",
+      "hint": "White plus patches other than black"
+    },
+    {
+      "word": "piebald",
+      "category": "Coat",
+      "difficulty": "hard",
+      "hint": "White and black patch pattern"
+    },
+    {
+      "word": "sabino",
+      "category": "Coat",
+      "difficulty": "hard",
+      "hint": "Pattern with white legs and belly spots"
+    },
+    {
+      "word": "tobiano",
+      "category": "Coat",
+      "difficulty": "hard",
+      "hint": "Common pinto pattern crossing topline"
+    },
+    {
+      "word": "overo",
+      "category": "Coat",
+      "difficulty": "hard",
+      "hint": "Pinto pattern not crossing topline"
+    },
+    {
+      "word": "dapple",
+      "category": "Coat",
+      "difficulty": "medium",
+      "hint": "Circular shaded marks in coat"
+    },
+    {
+      "word": "flaxen",
+      "category": "Coat",
+      "difficulty": "medium",
+      "hint": "Light mane and tail on chestnut"
+    },
+    {
+      "word": "rabicano",
+      "category": "Coat",
+      "difficulty": "hard",
+      "hint": "Roaning concentrated around flanks and tail"
+    },
+    {
+      "word": "sorrel",
+      "category": "Coat",
+      "difficulty": "medium",
+      "hint": "Common term for chestnut shade"
+    },
+    {
+      "word": "sealbrown",
+      "category": "Coat",
+      "difficulty": "hard",
+      "hint": "Very dark bay with tan soft areas"
+    },
+    {
+      "word": "liverchestnut",
+      "category": "Coat",
+      "difficulty": "hard",
+      "hint": "Dark rich chestnut coat shade"
+    },
+    {
+      "word": "silverdapple",
+      "category": "Coat",
+      "difficulty": "hard",
+      "hint": "Silver gene affecting black pigment"
+    },
+    {
+      "word": "spook",
+      "category": "Behaviour",
+      "difficulty": "easy",
+      "hint": "Sudden fright response"
+    },
+    {
+      "word": "balk",
+      "category": "Behaviour",
+      "difficulty": "easy",
+      "hint": "Refusal to move forward"
+    },
+    {
+      "word": "buck",
+      "category": "Behaviour",
+      "difficulty": "easy",
+      "hint": "Kick out with hind legs"
+    },
+    {
+      "word": "rear",
+      "category": "Behaviour",
+      "difficulty": "easy",
+      "hint": "Lift front legs off ground"
+    },
+    {
+      "word": "bolt",
+      "category": "Behaviour",
+      "difficulty": "easy",
+      "hint": "Run off quickly and uncontrollably"
+    },
+    {
+      "word": "nicker",
+      "category": "Behaviour",
+      "difficulty": "easy",
+      "hint": "Soft greeting sound"
+    },
+    {
+      "word": "whinny",
+      "category": "Behaviour",
+      "difficulty": "easy",
+      "hint": "Loud calling vocalization"
+    },
+    {
+      "word": "snort",
+      "category": "Behaviour",
+      "difficulty": "easy",
+      "hint": "Forceful exhale through nostrils"
+    },
+    {
+      "word": "pawing",
+      "category": "Behaviour",
+      "difficulty": "medium",
+      "hint": "Scraping the ground with a hoof"
+    },
+    {
+      "word": "weaving",
+      "category": "Behaviour",
+      "difficulty": "medium",
+      "hint": "Swaying side to side in stall"
+    },
+    {
+      "word": "cribbing",
+      "category": "Behaviour",
+      "difficulty": "medium",
+      "hint": "Grasping object and sucking air"
+    },
+    {
+      "word": "windsucking",
+      "category": "Behaviour",
+      "difficulty": "hard",
+      "hint": "Air gulping stereotypic behavior"
+    },
+    {
+      "word": "kicking",
+      "category": "Behaviour",
+      "difficulty": "easy",
+      "hint": "Striking with hind legs"
+    },
+    {
+      "word": "biting",
+      "category": "Behaviour",
+      "difficulty": "easy",
+      "hint": "Grabbing with the teeth"
+    },
+    {
+      "word": "rolling",
+      "category": "Behaviour",
+      "difficulty": "easy",
+      "hint": "Lying down and turning over"
+    },
+    {
+      "word": "mutualgrooming",
+      "category": "Behaviour",
+      "difficulty": "hard",
+      "hint": "Two horses grooming each other"
+    },
+    {
+      "word": "herdbound",
+      "category": "Behaviour",
+      "difficulty": "hard",
+      "hint": "Anxious when separated from herd"
+    },
+    {
+      "word": "buddysour",
+      "category": "Behaviour",
+      "difficulty": "hard",
+      "hint": "Attached strongly to one companion"
+    },
+    {
+      "word": "headtossing",
+      "category": "Behaviour",
+      "difficulty": "hard",
+      "hint": "Repeated sudden flipping of the head"
+    },
+    {
+      "word": "shying",
+      "category": "Behaviour",
+      "difficulty": "medium",
+      "hint": "Jumping sideways away from object"
+    },
+    {
+      "word": "dominance",
+      "category": "Behaviour",
+      "difficulty": "medium",
+      "hint": "Higher rank in social hierarchy"
+    },
+    {
+      "word": "submission",
+      "category": "Behaviour",
+      "difficulty": "medium",
+      "hint": "Yielding behavior to higher rank"
+    },
+    {
+      "word": "curiosity",
+      "category": "Behaviour",
+      "difficulty": "medium",
+      "hint": "Investigative interest in novel things"
+    },
+    {
+      "word": "playfulness",
+      "category": "Behaviour",
+      "difficulty": "medium",
+      "hint": "Energetic social or solo play behavior"
+    }
   ]
 }
